@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app is a fun memory game that goes and tests your memories using characters from the Netflix show Big Mouth.
+
+Live App Page: https://redchristian77.github.io/clicky-game/
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
