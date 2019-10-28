@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.e2bfea17.chunk.css",
+    "main.js": "/clicky-game/static/js/main.177097d3.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.177097d3.chunk.js.map",
+    "runtime-main.js": "/clicky-game/static/js/runtime-main.742e30a5.js",
+    "runtime-main.js.map": "/clicky-game/static/js/runtime-main.742e30a5.js.map",
+    "static/js/2.60802817.chunk.js": "/clicky-game/static/js/2.60802817.chunk.js",
+    "static/js/2.60802817.chunk.js.map": "/clicky-game/static/js/2.60802817.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.f88747517919e6f16cb0bed5974d4432.js": "/clicky-game/precache-manifest.f88747517919e6f16cb0bed5974d4432.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.e2bfea17.chunk.css.map": "/clicky-game/static/css/main.e2bfea17.chunk.css.map",
+    "static/media/Andrew.jpg": "/clicky-game/static/media/Andrew.73e99106.jpg",
+    "static/media/CoachSteve.jpg": "/clicky-game/static/media/CoachSteve.77e3c434.jpg",
+    "static/media/Connie.jpg": "/clicky-game/static/media/Connie.714273df.jpg",
+    "static/media/Jay.jpg": "/clicky-game/static/media/Jay.b9326ed3.jpg",
+    "static/media/Jessi.jpg": "/clicky-game/static/media/Jessi.944612a5.jpg",
+    "static/media/Judd.jpg": "/clicky-game/static/media/Judd.22f1cecf.jpg",
+    "static/media/Missy.jpg": "/clicky-game/static/media/Missy.13e2908c.jpg",
+    "static/media/NickBirch.jpg": "/clicky-game/static/media/NickBirch.d5abaf1a.jpg",
+    "static/media/Ricky.jpg": "/clicky-game/static/media/Ricky.876620b8.jpg",
+    "static/media/ShameWizard.jpg": "/clicky-game/static/media/ShameWizard.677a2b0c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.742e30a5.js",
+    "static/js/2.60802817.chunk.js",
+    "static/css/main.e2bfea17.chunk.css",
+    "static/js/main.177097d3.chunk.js"
+  ]
+}
